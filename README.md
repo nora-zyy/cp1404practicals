@@ -1,6 +1,3 @@
-# CP1404 Practicals
-
-Practical work for IT@JCU CP1404
 # CP1404 Practical
 Name: Yingying Zhang
 Major: Information Technology
